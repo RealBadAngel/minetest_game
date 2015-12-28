@@ -1,4 +1,4 @@
-Minetest 0.4 mod: default
+Minetest Game mod: default
 ==========================
 
 License of source code:
@@ -147,6 +147,9 @@ BlockMen (CC BY-SA 3.0):
   bubble.png
   heart.png
   gui_*.png
+
+sofar (CC BY-SA 3.0):
+  default_book_written.png, based on default_book.png
 
 Neuromancer (CC BY-SA 2.0):
   default_cobble.png, based on texture by Brane praefect
